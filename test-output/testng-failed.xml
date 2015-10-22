@@ -6,7 +6,7 @@
       <class name="com.sqa.ao.selenium.intro.BasicDriverRun">
         <methods>
           <include name="login"/>
-          <include name="setupChrome"/>
+          <include name="setupOpera"/>
         </methods>
       </class> <!-- com.sqa.ao.selenium.intro.BasicDriverRun -->
     </classes>

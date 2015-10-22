@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="7287" started-at="2015-10-22T04:32:50Z" finished-at="2015-10-22T04:32:58Z">
+  <suite name="Default suite" duration-ms="62228" started-at="2015-10-22T04:46:44Z" finished-at="2015-10-22T04:47:46Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="7287" started-at="2015-10-22T04:32:50Z" finished-at="2015-10-22T04:32:58Z">
+    <test name="Default test" duration-ms="62228" started-at="2015-10-22T04:46:44Z" finished-at="2015-10-22T04:47:46Z">
       <class name="com.sqa.ao.selenium.intro.BasicDriverRun">
-        <test-method status="PASS" signature="setupChrome()[pri:0, instance:com.sqa.ao.selenium.intro.BasicDriverRun@e9581b]" name="setupChrome" is-config="true" duration-ms="2497" started-at="2015-10-21T21:32:50Z" finished-at="2015-10-21T21:32:53Z">
+        <test-method status="PASS" signature="setupOpera()[pri:0, instance:com.sqa.ao.selenium.intro.BasicDriverRun@1330af4]" name="setupOpera" is-config="true" duration-ms="43632" started-at="2015-10-21T21:46:44Z" finished-at="2015-10-21T21:47:28Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setupChrome -->
-        <test-method status="PASS" signature="login()[pri:0, instance:com.sqa.ao.selenium.intro.BasicDriverRun@e9581b]" name="login" duration-ms="4772" started-at="2015-10-21T21:32:53Z" finished-at="2015-10-21T21:32:58Z">
+        </test-method> <!-- setupOpera -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.sqa.ao.selenium.intro.BasicDriverRun@1330af4]" name="login" duration-ms="18579" started-at="2015-10-21T21:47:28Z" finished-at="2015-10-21T21:47:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
