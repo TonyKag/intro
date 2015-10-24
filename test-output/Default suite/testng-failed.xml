@@ -5,9 +5,8 @@
     <classes>
       <class name="com.sqa.ao.selenium.intro.EBayLoginAddItemCart">
         <methods>
+          <include name="setUp"/>
           <include name="testEBayLoginAddItemCart"/>
-          <include name="setUpFirefox"/>
-          <include name="setUpChrome"/>
         </methods>
       </class> <!-- com.sqa.ao.selenium.intro.EBayLoginAddItemCart -->
     </classes>
